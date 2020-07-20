@@ -1,10 +1,9 @@
 ## Hi there, I'm Zezhou Sun <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I'm now a Phd Candidate at Nanjing University of Science and Technology <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+I'm now a Phd Candidate at Nanjing University of Science and Technology <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  
+I'm currently researching in [IMRL Lab](https://sites.google.com/view/huikonglab/home) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm interested in SLAM, Motion and Path Planning, Mobile Robotics, Autonomous Driving <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<a href="https://www.linkedin.com/in/sun-zezhou-69b1551b2">
+<a href="https://www.linkedin.com/in/sun-zezhou-孙泽舟-69b1551b2">
     <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://scholar.google.com/citations?user=9ScgH5kAAAAJ&hl=en">
@@ -12,9 +11,6 @@ I'm interested in SLAM, Motion and Path Planning, Mobile Robotics, Autonomous Dr
 </a>
 <a href="https://www.youtube.com/channel/UCa8CO_ifNw6qmroMSPpiHlw?view_as=subscriber">
     <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="www.sun_zezhou@njust.edu.cn">
-    <img align="left" alt=" Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 ---
