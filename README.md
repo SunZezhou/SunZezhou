@@ -19,10 +19,10 @@ I'm currently researching in [IMRL Lab](https://sites.google.com/view/huikonglab
 
 ```javascript
 const My = {
-  Pronouns : "He" | "him",
+  Pronouns : [ "He" | "him" ],
   Interest : [ "SLAM", "Motion and Path Planning", "Mobile Robotics", "Autonomous Driving" ],
-  Code : [ "C", "C++", "Matlab" ],
-  Tools : [ "ROS", "OpenCV", "Docker" ]
+  Code     : [ "C", "C++", "Matlab" ],
+  Tools    : [ "ROS", "OpenCV", "Docker" ]
 ```
 
 ---
