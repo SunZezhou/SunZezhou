@@ -9,7 +9,7 @@ I'm currently researching in [IMRL Lab](https://sites.google.com/view/huikonglab
 <a href="https://scholar.google.com/citations?user=9ScgH5kAAAAJ&hl=en">
     <img align="left" alt=" Googlescholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCa8CO_ifNw6qmroMSPpiHlw?view_as=subscriber">
+<a href="https://www.youtube.com/channel/UCa8CO_ifNw6qmroMSPpiHlw">
     <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
