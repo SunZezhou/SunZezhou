@@ -20,7 +20,7 @@ I'm currently researching in [IMRL Lab](https://sites.google.com/view/huikonglab
 ```javascript
 const My = {
   Pronouns : [ "He" | "him" ],
-  Interest : [ "Autonomous exploration", "SLAM", "Motion and Path Planning"],
+  Interest : [ "Autonomous Exploration", "SLAM", "Motion and Path Planning"],
   Code     : [ "C", "C++", "Matlab" ],
   Tools    : [ "ROS", "OpenCV", "Docker" ]
 ```
