@@ -20,7 +20,7 @@ I'm currently researching in [IMRL Lab](https://sites.google.com/view/huikonglab
 ```javascript
 const My = {
   Pronouns : [ "He" | "him" ],
-  Interest : [ "SLAM", "Motion and Path Planning", "Mobile Robotics", "Autonomous Driving" ],
+  Interest : [ "Autonomous exploration", "SLAM", "Motion and Path Planning"],
   Code     : [ "C", "C++", "Matlab" ],
   Tools    : [ "ROS", "OpenCV", "Docker" ]
 ```
@@ -29,7 +29,9 @@ const My = {
 
 ### Publications:
 
-1. **Zezhou Sun**, Banghe Wu, Cheng-Zhong Xu, Sanjay Sarma, Jian Yang, and Hui Kong, Frontier Detection and Reachability Analysis for Efficient 2D Graph-SLAM Based Active Exploration, IEEE International Conference on Intelligent Robotics and Systems (IROS) 2020 (oral presentation)
-2. Ying Wang, **Zezhou Sun**, Cheng-Zhong Xu, Sanjay Sarma, Jian Yang, and Hui Kong, LiDAR-Iris for Loop Closure Detection, IEEE International Conference on Intelligent Robotics and Systems (IROS) 2020 (oral presentation)
-3. Minghao Liu, Zhixing Hou, **Zezhou Sun**, Ning Yin, Hang Yang, Ying Wang, Zhiqiang Chu and Hui Kong, Campus Guide: A Lidar-based Mobile Robot, European Conference on Mobile Robotics (ECMR) 2019 (oral presentation)
-4. Yigong Zhang, Yicheng Gao, Shuo Gu, Yubin Guo, Minghao Liu, **Zezhou Sun**, Zhixing Hou, Hang Yang, Ying Wang, Jian Yang, Jean Ponce, and Hui Kong, DIY your own hybrid thermal/EO camera for autonomous vehicle, IEEE International Conference on Robotics and Automation (ICRA) 2019 (spotlight presentation)
+1. **Zezhou Sun**, Banghe Wu, Cheng-Zhong Xu, and Hui Kong, Ada-Detector: Adaptive Frontier Detector for Rapid Exploration, IEEE International Conference on Robotics and Automation (ICRA) 2022.
+2. Yigong Zhang, **Zezhou Sun**, Banghe Wu, Jian Yang, Hui Kong, Building a stereo and wide-view hybrid RGB/FIR imaging system for autonomous vehicle, IEEE Sensors Journal 2021.
+3. **Zezhou Sun**, Banghe Wu, Cheng-Zhong Xu, Sanjay Sarma, Jian Yang, and Hui Kong, Frontier Detection and Reachability Analysis for Efficient 2D Graph-SLAM Based Active Exploration, IEEE International Conference on Intelligent Robotics and Systems (IROS) 2020 (oral presentation).
+4. Ying Wang, **Zezhou Sun**, Cheng-Zhong Xu, Sanjay Sarma, Jian Yang, and Hui Kong, LiDAR-Iris for Loop Closure Detection, IEEE International Conference on Intelligent Robotics and Systems (IROS) 2020 (oral presentation).
+5. Minghao Liu, Zhixing Hou, **Zezhou Sun**, Ning Yin, Hang Yang, Ying Wang, Zhiqiang Chu and Hui Kong, Campus Guide: A Lidar-based Mobile Robot, European Conference on Mobile Robotics (ECMR) 2019 (oral presentation).
+6. Yigong Zhang, Yicheng Gao, Shuo Gu, Yubin Guo, Minghao Liu, **Zezhou Sun**, Zhixing Hou, Hang Yang, Ying Wang, Jian Yang, Jean Ponce, and Hui Kong, Build your own hybrid thermal/EO camera for autonomous vehicle, IEEE International Conference on Robotics and Automation (ICRA) 2019 (spotlight presentation).
