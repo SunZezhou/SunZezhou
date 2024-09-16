@@ -1,6 +1,5 @@
 ## Hi there, I'm Zezhou Sun <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-I'm now a Phd Candidate at Nanjing University of Science and Technology <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  
+ 
 I'm currently researching in [IMRL Lab](https://sites.google.com/view/huikonglab/home) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <a href="https://www.linkedin.com/in/sun-zezhou-孙泽舟-69b1551b2">
