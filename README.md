@@ -1,6 +1,6 @@
 ## Hi there, I'm Zezhou Sun <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
  
-I'm currently researching in [IMRL Lab](https://sites.google.com/view/huikonglab/home) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm currently researching in [IMRL Lab](https://sites.google.com/view/huikonglab/home) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at the University of Macau.
 
 <a href="https://www.linkedin.com/in/sun-zezhou-孙泽舟-69b1551b2">
     <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
