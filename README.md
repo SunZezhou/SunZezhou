@@ -1,6 +1,6 @@
 ## Hi, I'm Zezhou Sun 👋
 
-I am a **Postdoctoral Researcher in Robotics at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**.
+I am a **Postdoctoral Researcher in Robotics at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, conducting research in [Prof. Dezhen Song](https://mbzuai.ac.ae/academics/faculty-directory/dezhen-song)'s group.
 
 My current research focuses on **Embodied AI, Visuotactile Fusion for Manipulation, Agricultural Robotics, SLAM, and Navigation**, particularly for autonomous harvesting and interaction with deformable objects in the agricultural domain. During my Ph.D., I worked on **active SLAM and autonomous exploration**, including large-scale outdoor mapping, localization, and exploration through the integration of LiDAR, GPS, digital maps, and semantic information.
 
